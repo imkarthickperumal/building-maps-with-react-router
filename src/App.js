@@ -14,7 +14,7 @@ function App() {
         <Route path="/products">
           <Products />
         </Route>
-        <h1>Home Page</h1>
+        
       </main>
       
     </div>
